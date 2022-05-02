@@ -6,10 +6,10 @@ Robotics Enthusiast
 
 I am a Master's student in the Electrical and Computer Engineering department at University of California, San Diego, specializing in Intelligent Systems, Robotics and Controls. I am particularly interested about enabling robots to learn, motion planning and control.
 
-*   🌍  I'm based in San Diego, California
+*   🌍  I'm based in San Diego, California. Born in Ranchi, India. 
 *   ✉️  You can contact me at [sghosal@ucsd.edu](mailto:sghosal@ucsd.edu)
-*   🧠  I'm learning Planning and Learning in Robotics, SLAM, Deep Learning and Reinforcement Learning
-*   ⚡  I love playing games. Top favourites include COD Modern Warfare Series, FIFA, Batman Arkham Series and also competitive gaming with my friends such as Tom Clancy's Rainbow Six Siege.
+*   🧠  I'm hugely interested in areas such as Planning and Learning in Robotics, SLAM(Simultaneous Localization and Mapping), Deep Learning and Reinforcement Learning, Optimal Control, Dynamic Programming. 
+*   ⚡  I love playing games. Top favourites include COD Modern Warfare Series, FIFA, Batman Arkham Series and also competitive gaming with my friends in Tom Clancy's Rainbow Six Siege, one of the best FPS games. I am also a huge fan of Formula 1 (Grazie Ragazzi Forza Ferrari) #SV5
 ### Skills
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
