@@ -4,7 +4,7 @@ Hi 👋 My name is Sambaran Ghosal
 Robotics Enthusiast
 -------------------
 
-I am a Master's student in the Electrical and Computer Engineering department at University of California, San Diego, specializing in Intelligent Systems, Robotics and Controls. I am particularly interested about enabling robots to learn, motion planning and control.
+I am a Master's graduate in the Electrical and Computer Engineering department at University of California, San Diego, specializing in Intelligent Systems, Robotics and Controls. I am particularly interested about enabling robots to learn, motion planning and control. I am currently an Autonomy Engineer at BrainCorp, San Diego (https://www.braincorp.com/) with primary work in robotics perception, sensor stack calibration. 
 
 *   🌍  I'm based in San Diego, California. Born in Ranchi, India. 
 *   ✉️  You can contact me at [sghosal@ucsd.edu](mailto:sghosal@ucsd.edu)
